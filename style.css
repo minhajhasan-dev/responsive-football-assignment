@@ -128,13 +128,15 @@ footer p {
     max-height: 20rem;
   }
   .right-side img {
-    width: 350px;
-    height: 350px;
-    padding-left: 5em;
+    width: 330px;
+    height: 330px;
+    padding-left: 1em;
   }
   .left-side h1 {
-    font-size: 40px;
+    font-size: 36px;
     padding-top: 5rem;
+    margin-left: -15px;
+    line-height: 3.5rem;
   }
   footer {
     display: flex;
