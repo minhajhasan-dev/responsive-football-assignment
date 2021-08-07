@@ -44,6 +44,7 @@ body {
   background-color: #e02c6d;
   color: white;
   font-size: 16px;
+  cursor: pointer;
 }
 .right-side {
   display: flex;
