@@ -112,6 +112,7 @@ body {
   font-size: 32px;
   margin-right: 14px;
   color: #969bab;
+  cursor: pointer;
 }
 /* Media Query Start here  */
 @media (max-width: 780px) {
