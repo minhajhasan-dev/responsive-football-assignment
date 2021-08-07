@@ -115,6 +115,10 @@ body {
   color: #969bab;
   cursor: pointer;
 }
+footer p {
+  text-align: center;
+  font-size: 18px;
+}
 /* Media Query Start here  */
 @media (max-width: 780px) {
   .container {
